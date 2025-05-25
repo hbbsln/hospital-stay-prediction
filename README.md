@@ -31,7 +31,7 @@ R² Score
 
 Elde edilen sonuçlar doğrultusunda en iyi model X olmuştur (detaylar notebook’ta grafiklerle sunulmuştur). Ayrıca +5 gün ve üzeri kalış sürelerinin etiketlenerek sınıflandırıldığı alternatif bir hedef yaklaşımı da denenmiş ve sonuçları karşılaştırılmıştır.
 
-## ## Ekler
+## Ekler
 
 Projeye ait bir Streamlit uygulaması geliştirilmiş ve `UI/streamlit_app.py` dosyası altında sunulmuştur. Bu arayüz, kullanıcıdan giriş verilerini alarak hastanede kalış süresi tahmini yapmaktadır.
 
@@ -59,7 +59,7 @@ Gelecekte bu projeyi genişletmeyi ve üretime alınabilir hâle getirmeyi planl
 ## Linkler
 Proje kapsamında kullanılan ve geliştirilen notebook'lar:
 
--Modelleme ve Tahmin Notebook'u (https://www.kaggle.com/code/habibeaslan/hospital-stay-prediction)
+- [Ana Proje Not Defteri - EDA ve Modelleme] (https://www.kaggle.com/code/habibeaslan/hospital-stay-prediction)
 
 
 
